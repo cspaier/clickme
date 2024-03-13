@@ -5,7 +5,7 @@
 [socket.io](https://socket.io) et [expressjs](expressjs.com).
 
 
-**Les règles du jeu**
+ <div align = 'center'> <h1> Les règles du jeu </h1> </div>
 <wh>
 <p>*cliquer le plus vite posssible sur la cible verte*</p>
 <p>*interdiction d'utilisation d'assist tool et exploit :o *</p>
@@ -14,7 +14,7 @@
 **prérequis**
 <p>node.js et git bash</p>
 
-<div align = 'center'> <h1> déploiement </h1> </div>
+<div align = 'center'> <h2> déploiement </h2> </div>
 
 - Installer les dépendances: `npm install`
 - Lancer le serveur: `npx nodemon index.js`
