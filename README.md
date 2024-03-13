@@ -14,5 +14,9 @@
 **prérequis**
 <p>node.js et git bash</p>
 
+<div align = 'center'> déploiement </div>
+
+- Installer les dépendances: `npm install`
+- Lancer le serveur: `npx nodemon index.js`
 
 
